@@ -48,3 +48,29 @@ h1 {
 @ font-family: Aria; -> declaração
 	@ font-family -> propriedade
 	@ Arial -> valor
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) C: Eu programo em linguagem JavaScript
+
+2) B: HyperText Markup Language
+
+3) A: Cascading Style Sheets
+
+4) D: 3 - 1 - 2
+
+5) B: <meta>
+
+6) B: parâmetro
+
+7) A: seletor
+
+8) C: color
+
+9) D: <! DOCTYPE html>
+
+10) B: <meta charset= "UTF-8"
+
+--------------------------------------------------------------------

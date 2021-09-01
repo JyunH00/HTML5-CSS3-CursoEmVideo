@@ -1,0 +1,38 @@
+@Tags em HTML
+
+-> <html> </html> -> Tag principal 
+-> <head> </head> -> Área de configurações
+-> <body> </body> -> Área do corpo
+-> <h1> </h1> -> Header
+-> <title> </title> -> Título do site (Aba)
+-> <hr> -> Cria linha horizontal
+-> <p> </p>-> Parágrafo
+-> <meta> -> Define algumas configurações através de parâmetros
+    -> charset
+    -> content
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) D: Word
+
+2) A: Microsoft
+
+3) C: Sim. Mas não existe suporte nativo para PT-BR, mas existe uma extensão para isso.
+
+4) D: Word wrap
+
+5) A: Arquivo > Salvar automaticamente
+
+6) C: index.htm
+
+7) A: ! + enter
+
+8) D: <hr>
+
+9) A: <p>
+
+10) C: <head>
+
+--------------------------------------------------------------------
