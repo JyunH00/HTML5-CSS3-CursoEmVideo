@@ -1,0 +1,50 @@
+@ Conteúdo em HTML
+
+<h1> Exemplo de título </h1>
+
+<p> Exemplo de parágrafo </p>
+
+<img src="foto.png" alt="Exemplo de foto">
+
+@ <h1>, <p> , <img> -> abertura de tag
+
+@ Exemplo de título -> conteúdo
+
+@ src, alt -> parâmetros
+
+@ "Exemplo de foto" -> valor
+
+@ </h1>, </p> -> fechamento de tag
+
+
+@ Estrutura básica de documento HTML
+
+<!DOCTYPE html> -> Declara que é HTML5
+
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		Área de configurações
+	</head>
+	
+	<body>
+		Área de corpo
+		<h1> Olá, Mundo!</h1>
+	</body>
+
+</html>
+
+@ Estilo em CSS
+
+h1 {
+	font-family: Arial;
+	font-size: 20pt;
+	color: blue;
+}
+
+@ h1 -> seletor
+
+@ font-family: Aria; -> declaração
+	@ font-family -> propriedade
+	@ Arial -> valor
