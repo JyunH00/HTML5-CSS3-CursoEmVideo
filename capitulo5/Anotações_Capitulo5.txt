@@ -1,0 +1,43 @@
+@ Algumas novas Tags
+
+-> <br> : Quebra de linha
+    @ NÂO USE PARA ESPAÇAMENTO!
+
+@ Adição de símbolos e emojis
+
+-> HTML Entities: Todos possuem algum código como:
+    -> Marca registrada: &reg;
+    -> Copyritght: &copy;
+    @ Basta procurar!
+
+-> Emojis: Utilizar o site emojipedia:
+    @ Usar o &#xCODIGOHEXADECIMAL;
+
+@ &lt; -> Estamos pedindo para colocar o símbolo menor que (less than).
+@ &gt; -> Estamos pedindo para colocar o símbolo menor que (greater than).
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) A: &lt; e &gt;
+
+2) B: uma ao lado da outra
+
+3) C: <br>
+
+4) C: usar configurações de estilo em CSS e especificar o espaçamento todo de uma vez
+
+5) A: HTML Entities
+
+6) D: &raar;
+
+7) C: emojipedia
+
+8) D: &#x1F913;
+
+9) B: Break row, ou quebra de linha
+
+10) A: .org
+
+--------------------------------------------------------------------
