@@ -1,6 +1,6 @@
 # HTML5-CSS3-CursoEmVideo
 
-# Anotações, exercícios e desafios feitos em HTML5 e CSS3 na plataforma Curso em Vídeo.
+## Anotações, exercícios e desafios feitos em HTML5 e CSS3 na plataforma Curso em Vídeo.
 
 @ Utilizando VSCode e Google Chrome para realização dos exercícios e desafios.
 
