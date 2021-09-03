@@ -1,0 +1,33 @@
+@ Hierarquia de títulos
+
+-> Conhecidos como headings (títulos)
+-> Possuem 6 níveis de hierarquia
+-> Usamos as tags <h1> até <h6>
+
+-> Um <h1> significa que esse é o assunto principal e é sobre ele que vamos escrever. Já o h2 significa que esse é um sub-assunto do <h1>, etc.
+
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) C: Não. Um texto pode ter vários títulos, mas apenas um máximo de seis níveis.
+
+2) D: <h1> até <h6> 
+
+3) A: nível 4 
+
+4) A: nível 1
+
+5) D: lenda. É possivel adicionar mais de um título de nível 1, só devemos nos dedicar a descrevê-lo muito bem para facilitar a indexação por mecanismos de busca.
+
+6) B: SEO - Search Engine Optimization
+
+7) A: não. Os títulos de menor nível serão usados apenas se for necessário
+
+8) A: Lorem Ipsum
+
+9) C: lorem/ Enter
+
+10) C: maior/ menor 
+--------------------------------------------------------------------   
