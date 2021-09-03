@@ -1,0 +1,46 @@
+@ Algumas novas Tags
+
+-> <img> </img> -> Insere uma imagem
+    @ Parâmetro src: Caminho da foto
+    @ Parâmetro alt: Descrição da foto
+    @ Atalho ctrl + espaço -> Mostra todos os arquivos na mesma pasta!
+    @ Podemos pegar imagens externas, basta copiarmos a URL da imagem!
+
+@ Formatos e direitos
+
+-> PNG, JPEG
+
+-> Cuidado com direitos autorais!
+
+@Favicon: Imagem que aparece na aba do navegador!
+
+-> <link>: Utilizar no <head> </head>
+    @Parâmetro href: colocar o diretório do favicon
+    @ Atalho ctrl + espaço -> Mostra todos os arquivos na mesma pasta!
+
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) B: Não pódemos usar nenhuma mídia sem a prévia autorização do seu criador.
+
+2) A: seja o criador das auas prórpias artes
+
+3) D: Pexels
+
+4) B: JPEG
+
+5) D: PNG
+
+6) A: Joint Photographics Expert Group
+
+7) c: Tente balancear sempre qualidade e tamanho, para que seu site não fique pesadof mas não se esqueça da experiência proporcionada ao seu visitante.
+
+8) D: <img>
+
+9) A: src
+
+10) C: <link> / <head> 
+
+--------------------------------------------------------------------   
