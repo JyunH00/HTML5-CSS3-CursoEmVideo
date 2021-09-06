@@ -1,0 +1,91 @@
+@ HTML semântico
+
+-> HTML5 é semântico!
+        @ Saber usar HTML5 como semântica, CSS como forma e JavaScript como interação
+        @ Semântica: "Estudo sincrônico ou diacrônico da significação como parte dos sistemas das línguas naturais.""
+
+-> Tags obsoletas!
+    @ https://dev.w3.org/html5/pf-summary/obsolete.html
+
+--------------------------------------------------------------------
+
+-> Negrito
+    @ Tag <b>: Não semântica
+    @ Tag <strong>: Semântica
+
+-> Itálico
+    @ Tag <i>: Não semântica
+    @ Tag <em>: Semântica
+
+-> Texto marcado
+    @ Tag <mark>
+
+-> Texto grande e pequeno
+    @ Tag <big> : Tag obsoleta
+    @ Tag <small>
+
+-> Texto deletado
+    @ Tag <del>: O texto fica com um risco no meio
+
+-> Texto inserido
+    @ Tag <ins>: Semântico
+    @ Tag <u>: Não semântico
+
+-> Texto sobescrito
+    @ Tag <sup>
+
+-> Texto subescrito
+    @ Tag <sub>
+
+-> Utilize para o texto ficar exatamente como está no seu código
+    @ Tag <pre>
+
+-> Texto para códigos
+    @ Tag <code>  
+
+-> Citações simples
+    @ Tag <q> 
+
+-> Citações completas
+    @ Tag <blockquote> 
+    @ Parâmetro cite: Colocar a url da citação
+
+-> Abreviações
+    @ Tag <abbr> 
+
+-> Texto invertido
+    @ Tag <bdo>
+    @ Parâmetro: rtl ou ltl
+
+--------------------------------------------------------------------
+
+-> Algumas facilidades!
+    @ Selecione o texto que quer colocar em alguma tag
+    @ CTRL + SHIFT + P;
+    @ Emmet: Wrap with abbreviation;
+    @ Digite o nome da tag.
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) B: forma/ significado
+
+2) D: tags semânticas
+
+3) C: <strong>
+
+4) C: <aside>
+
+5) A: <strong> e <em>
+
+6) D: a tag <big> deixou de existir e a tag <small> segue funcionando
+
+7) B: <ins>
+
+8) D: <sup> / <sub>
+
+9) B: <blockquote> / cite
+
+10) A: <bdo> / rtl
+--------------------------------------------------------------------   
