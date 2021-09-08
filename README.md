@@ -8,7 +8,7 @@
 
 @ Aulas ministradas pelo professor Gustavo Guanabara: https://github.com/gustavoguanabara
 
-@ O curso conta com um repósitorio no github com todo o material de teoria, exerícios e desafios! https://github.com/gustavoguanabara/html-css
+@ O curso conta com um repósitorio no github com todo o material de teoria, exerícios e desafios! https://github.com/gustavoguanabara/html-css ou https://gustavoguanabara.github.io/
 
 @ Estarei disponibilizando todas as minhas anotações das aulas e minhas resoluções!
 
