@@ -1,0 +1,50 @@
+@ Listas
+
+->Listas ordenadas
+    @ Tag <ol>
+    @ Utilizamos a tag <li> para escrever os elementos
+    @ Parâmetro type: O tipo de ordenação: 1, A, a, I, i
+    @ Parâmetro start: Quando começa a numeração
+        @ Mesmo que escolhermos o tipo com letras (A, a), devemos usar números que representam as letras no alfabeto. Ex: A = 1
+
+-> Listas não ordenadas
+    @ Tag <ul>
+    @ Utilizamos a tag <li> para escrever os elementos
+    @ Parâmetro type: O tipo de ordenação: square, circle, disk
+
+-> PODEMOS MISTURAS OS DOIS TIPOS LISTAS!
+-> A  o fechamento da tag  <li> (</li>) é opcional em HTML5
+
+-> Listas de definição
+    @ Tag <dl>
+    @ Utilizamos a tag <dt> para descrever o nome do elemento
+    @ Utilizamos a tag <dd> para descrever o elemento
+
+--------------------------------------------------------------------
+-> Algumas facilidades!
+    @ Segure  a tecla ALT em alguma parte do texto que está se repentido várias vezes
+    @ Apague e resscreva e todas elas serão feitas automaticamente
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) C: Lista semi ordenada
+
+2) C: <li> 
+
+3) A: <ol> e </ol>
+
+4) D: <li>
+
+5) C: type / start
+
+6) D: X
+
+7) B: square
+
+8) C: <dl> e </dl> 
+
+9) A: definition term
+
+10) B: definition description
+--------------------------------------------------------------------   
