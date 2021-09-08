@@ -1,0 +1,51 @@
+@ Links
+
+-> Links externos e internos
+    @ Tag <a>
+        @ Parâmetro href: Coloque a url do site que deseja (referência hipertexto) (externo) ou o caminho da pasta (interno)
+        @ Parâmetro hreflang: Permite indicar o idioma principal do site para onde o link está desviando
+            @ Utilize "pt-br", "en" para indicar a língua
+        @ Parâmetro target
+            @ Utilize "_blank" para abrir o link em uma aba externa
+            @ Utilize "_self"  para abrir o link na janela ou frame atual
+        @ Parâmetro rel
+            @ Utilize "external" para dizer que o link é externo e não faz parte do site
+            @ Utilize "next" indica que o link é para a próxima parte do documento atual
+            @ Utilize "prev" indica que o link é para a parte anterior do documento atual
+
+-> Links para download
+    @ Tag <a>
+    @ Parâmetro download: nome_do_arquivo.ext
+    @ Parâmetro type: Tipo do arquivo
+        @ Acesse https://www.iana.org/assignments/media-types/media-types.xhtml. Para saber quais os valores a serem colocados para cada tipo.
+
+--------------------------------------------------------------------
+
+-> Algumas facilidades!
+    @ "../" -> Pasta superior!
+    @ "./" -> Pasta atual!
+
+--------------------------------------------------------------------
+
+Respostas dos exercícios do pdf
+
+1) A: hyperlink
+
+2) D: <a> 
+
+3) C: href
+
+4) D: hreflang 
+
+5) A: _external
+
+6) D: rel = "external"
+
+7) A: ../
+
+8) B: download e type
+
+9) C: application/pdf
+
+10) B: media types
+--------------------------------------------------------------------   
